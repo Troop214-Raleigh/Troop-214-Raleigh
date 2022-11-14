@@ -22,9 +22,17 @@ On this page https://www.learnitweb.com/articles/auto-format-code-in-visual-stud
 
 Install the GitHub pull requests extension following this guide https://code.visualstudio.com/docs/editor/github
 
+## Create a ssh key
+
+Follow the instructions here: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+Then add the key to your github profile following this guide: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+Test your connection following this guide: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
+
 ## Clone this repository
 
-Clone this repository to your local computer by following these instructions in the "Setting up a repository" section. Use this URL instead of the one provided: https://github.com/Troop214-Raleigh/website.git
+Clone this repository to your local computer by [following these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Do not use "https", use the "ssh" instructions instead. Use this URL to clone instead of the one provided: https://github.com/Troop214-Raleigh/website.git
 
 ## Create changes
 
